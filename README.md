@@ -1,0 +1,2 @@
+# myFirstgitHub
+deneme bir ki
